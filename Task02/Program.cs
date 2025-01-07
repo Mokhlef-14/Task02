@@ -7,8 +7,7 @@
             List<int> myList = new List<int>();
 
             char selection = '\0';
-            int sum = 0;
-            double Mean = 0;
+           
 
             do
             {
@@ -108,7 +107,10 @@
 
                     case 'M':
                     case 'm':
-
+                        
+                            int sum = 0;
+                            double Mean = 0;
+                        
                         if (myList.Count == 0)
                         {
                             Console.WriteLine("The list is empty!");
