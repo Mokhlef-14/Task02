@@ -21,7 +21,7 @@
                 Console.WriteLine("S - Display smallest number");
                 Console.WriteLine("L - Display largest number");
                 Console.WriteLine("K - Sort the list (Bubble sort)"); //additional functionality
-                Console.WriteLine("C - Clear an element "); //task2
+                Console.WriteLine("C - Clear the list "); //task2
                 Console.WriteLine("F - Find an element "); // task2
                 Console.WriteLine("Q - Quit\n");
                 Console.WriteLine("****************************************");
